@@ -4,5 +4,7 @@ class StoreAdminController < ApplicationController
   def home
   end
 
-  
+  def orders
+    render :layout => 
+  end
 end
